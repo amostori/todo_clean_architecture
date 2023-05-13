@@ -23,4 +23,7 @@ Aby stagować stare commity:
 `git tag -a TAG numer_hasha_commita -m "Tag Message"`
 Aby wysłać tagi na Githuba:
 `git push --tags`
+
+Aby zobaczyć tagi:
+`git tag`
 ---
